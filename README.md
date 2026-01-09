@@ -24,6 +24,7 @@ yellow: banana
 
 ### Usage
 Run the script:
+
 python processor.py
 
 The script will automatically generate a sample input.txt if one is missing, process the data, and output the results to output.txt.
